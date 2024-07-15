@@ -1,6 +1,6 @@
 # Trash Throwing Action Detection
 
-https://github.com/bhaskarshukla002/Trash-Throwing-Action-Detection/assets/86822762/ac6b9fe3-7055-4865-95a6-0af1f8aed410
+https://github.com/VishhalYadav/Garbage-Action-Detection/assets/86822762/ac6b9fe3-7055-4865-95a6-0af1f8aed410
 
 ## Overview
 This project is designed to detect trash-throwing actions using computer vision techniques. It utilizes YOLOv8 for pose estimation to identify specific human actions related to throwing trash.
@@ -13,11 +13,11 @@ This project is designed to detect trash-throwing actions using computer vision 
 ## Installation
 1. Clone the repository:
 
-       git clone https://github.com/bhaskarshukla002/Trash-Throwing-Action-Detection.git
+       git clone https://github.com/VishhalYadav/Garbage-Action-Detection
     
 3. Navigate to the project directory:
 
-       cd Trash-Throwing-Action-Detection
+       cd Garbage-Action-Detection
     
 4. Install the required dependencies:
 
@@ -47,8 +47,8 @@ Contributions are welcome! Please submit a pull request or open an issue to disc
 This project is licensed under the MIT License.
 
 ## Contact
-For any inquiries, please contact the repository owner at bhaskarshukla002@gmail.com.
+For any inquiries, please contact the repository owner at vishal7985io@gmail.com.
 
 ---
 
-For more details, visit the [repository](https://github.com/bhaskarshukla002/Trash-Throwing-Action-Detection).
+For more details, visit the [repository](https://github.com/VishhalYadav/Garbage-Action-Detection).
